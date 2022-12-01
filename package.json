@@ -1,0 +1,12 @@
+{
+  "name": "curso_git_basalo",
+  "version": "1.0.0",
+  "description": "Por [Rafael Torrado](http://marca.es) el 29/11/2022",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
